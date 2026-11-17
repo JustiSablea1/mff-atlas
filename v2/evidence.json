@@ -1,0 +1,28 @@
+{
+  "checked": "2026-11-18",
+  "scope": "Сборки из гайдов сообщества за сентябрь–ноябрь 2026. Обновление War of Kings вышло 17.11.2026. Влияние этого патча на приоритеты сборок ещё не проверено.",
+  "sources": {
+    "patch": ["Netmarble · War of Kings, 17.11.2026", "https://forum.netmarble.com/futurefight_en/view/2196/1897819"],
+    "gear": ["KendoDraken · примеры CTP, 28.10.2026", "https://forum.netmarble.com/futurefight_en/view/303/1897499"],
+    "skills": ["KendoDraken · навыки PvE и PvP, 03.11.2026", "https://forum.netmarble.com/futurefight_en/view/303/1897596"],
+    "pvp": ["THANO$VIB$ · сборки PvP, сентябрь 2026", "https://thanosvibs.money/tierlist/view/proj-1789860708511-vz1ip/ver-1790127390537-equ54"],
+    "history": ["THANO$VIB$ · подборка костюмов, август 2026", "https://thanosvibs.money/tierlist/view/proj-1787634809961-ohych/ver-1787921838781-cuo3p"],
+    "support": ["THANO$VIB$ · пассивные навыки поддержки", "https://thanosvibs.money/supports"],
+    "ctp": ["Netmarble · свойства Ascent, 13.10.2026", "https://forum.netmarble.com/futurefight_en/view/2196/1896956"]
+  },
+  "builds": [
+    ["thor","pve","All-Father Reborn",["Rage"],"Урон","Проверь многоскилловую ротацию с Rage. Особенно полезно начать с проверки экипировки, если Thor уже на Tier-4.",["gear","history"]],
+    ["lunasnow","pve","Mirae 2099",["Competition"],"Урон","Кандидат для Alliance Battle. Перед вложением проверь ограничения дня и категорию костюма.",["gear","history"]],
+    ["ghostrider","pve","Savage Avengers",["Competition"],"Урон","Сначала замерь урон на одном боссе при одинаковых условиях. Competition фигурирует у автора как PvE-сборка.",["gear","history"]],
+    ["scarletwitch","pve","Marvel Animation's Marvel Zombies",["Competition"],"Урон","Подборка сообщества связывает этот костюм с PvE. Сравни свою ротацию на боссе или в подходящей категории Alliance Battle.",["gear","history"]],
+    ["valkyrie","pve","Asgardians of the Galaxy",["Insight","Liberation"],"Поддержка","У базовой Valkyrie с Tier-2 уже есть бонус урона по злодеям. Этот костюм усиливает бонус и добавляет игнорирование уклонения.",["support","gear"]],
+    ["shuri","pve","Black Panther: Wakanda Forever",["Insight","Liberation"],"Поддержка","Пассивный бонус урона по злодеям доступен с Tier-2 и усиливается этим костюмом. Проверь допуск Shuri к выбранному режиму.",["support","gear"]],
+    ["taskmaster","pve","Marvel Studios' Thunderbolts*",["Insight","Liberation"],"Поддержка","Костюм даёт команде дополнительный урон по героям и злодеям. У костюма Black Widow тоже есть такой бонус.",["support","gear"]],
+    ["sentry","pvp","Marvel Studios' Thunderbolts*",[],"Урон","В этой сборке автор гайда отмечает пробитие защит на втором навыке. Проверь результаты в текущей ротации противников перед вложением в CTP.",["skills","pvp"]],
+    ["jeangrey","pvp","Summer Flare Phoenix",["Conquest"],"Урон","Автор проверял пробитие защит и снятие дебаффов на втором навыке. Костюм сезонный, поэтому учитывай наличие и доступность.",["skills","gear","pvp"]],
+    ["thanos","pvp","Annihilation",["Conquest"],"Урон","Conquest встречается в примерах для Thanos. Перед заменой экипировки проверь, как костюм показывает себя в твоей лиге.",["gear","pvp"]],
+    ["wolverine","pvp","Marvel Studios' Deadpool & Wolverine",["Conquest"],"Урон","Гайд отмечает пробитие защит на пятом навыке. Проверь условия своего эксклюзивного артефакта перед вложением.",["skills","gear","pvp"]],
+    ["gorr1","pvp","The God Butcher",[],"Урон","В гайде отмечены пробитие защит и возрождение с полным запасом здоровья. Начни с пробных боёв в своей лиге.",["skills","pvp"]],
+    ["galactus","pvp","Modern",["Conquest"],"Урон","Conquest приведён в примерах сообщества для Galactus. Используй пробные бои, чтобы оценить роль в своей команде.",["gear","pvp"]]
+  ]
+}
