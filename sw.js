@@ -1,9 +1,9 @@
-const CACHE = 'mff-atlas-shell-2.0.0';
+const CACHE = 'mff-atlas-shell-2.1.0';
 const FILES = [
   './index.html', './manifest.webmanifest', './icon.svg',
   './v2/apple-touch-icon.png', './v2/icon-192.png', './v2/icon-512.png',
-  './v2/style.css', './v2/app.mjs', './v2/profile.mjs', './v2/plan.mjs',
-  './v2/scan.mjs', './v2/ocr-worker.js', './v2/portraits.mjs', './v2/portraits.ndjson', './v2/catalog.json', './v2/evidence.json'
+  './v2/style.css', './v2/2.1/app.mjs', './v2/profile.mjs', './v2/2.1/plan.mjs',
+  './v2/scan.mjs', './v2/ocr-worker.js', './v2/portraits.mjs', './v2/portraits.ndjson', './v2/catalog.json', './v2/2.1/evidence.json'
 ];
 const url = path => new URL(path, self.registration.scope).href;
 
